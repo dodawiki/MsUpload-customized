@@ -1,4 +1,9 @@
-﻿# MsUpload
+﻿# MsUpload-customized
+ 
+## Customized warning!
+
+This extension is customized version for personal purposes. I recommend using the [official MsUpload](https://www.mediawiki.org/wiki/Extension:MsUpload) as much as possible.
+
 
 ## Installation
 
