@@ -59,9 +59,12 @@ class Hooks {
 		$out->addModules( 'ext.MsUpload' );
 
 		// @todo Figure out how to load this in a module without resource loader crashing.
-		$out->addScriptFile(
-			"$wgScriptPath/extensions/MsUpload/resources/plupload/plupload.full.min.js"
+		$out->addHeadItem(
+			'plupload',
+			'<script src="' . $wgScriptPath . '/extensions/MsUpload/resources/plupload/plupload.full.min.js"></script>'
 		);
+
+
 		return true;
 	}
 }

@@ -1,12 +1,12 @@
 {
-	"name": "MsUpload",
+	"name": "MsUpload-customized",
 	"version": "13.5",
 	"author": [
 		"[mailto:wiki@ratin.de Martin Schwindl]",
 		"[mailto:wiki@keyler-consult.de Martin Keyler]",
 		"[https://www.mediawiki.org/wiki/User:Sophivorus Sophivorus]"
 	],
-	"url": "https://www.mediawiki.org/wiki/Extension:MsUpload",
+	"url": "https://github.com/dodawiki/MsUpload-customized",
 	"descriptionmsg": "msu-desc",
 	"license-name": "GPL-2.0-or-later",
 	"type": "parserhook",
